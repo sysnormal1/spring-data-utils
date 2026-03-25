@@ -6,7 +6,7 @@
 	<!--<groupId>com.sysnormal.commons.spring</groupId>-->
 	<groupId>io.github.sysnormal1.commons.spring</groupId>
 	<artifactId>spring-data-utils</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>spring-data-utils</name>
 	<description>Sysnormal spring-data-utils</description>
 	<url>https://github.com/sysnormal1/spring-data-utils</url>
@@ -51,7 +51,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-dependencies</artifactId>
-				<version>4.0.3</version>
+				<version>4.0.4</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
@@ -111,7 +111,7 @@
 		<dependency>
 			<groupId>io.github.sysnormal1.commons.core</groupId>
 			<artifactId>utils-core</artifactId>
-			<version>0.0.1</version>
+			<version>0.0.2-SNAPSHOT</version>
 			<optional>true</optional>
 		</dependency>
 
