@@ -6,7 +6,7 @@
 	<!--<groupId>com.sysnormal.commons.spring</groupId>-->
 	<groupId>io.github.sysnormal1.commons.spring</groupId>
 	<artifactId>spring-data-utils</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>spring-data-utils</name>
 	<description>Sysnormal spring-data-utils</description>
 	<url>https://github.com/sysnormal1/spring-data-utils</url>
@@ -111,7 +111,7 @@
 		<dependency>
 			<groupId>io.github.sysnormal1.commons.core</groupId>
 			<artifactId>utils-core</artifactId>
-			<version>0.0.2-SNAPSHOT</version>
+			<version>0.0.2</version>
 			<optional>true</optional>
 		</dependency>
 
